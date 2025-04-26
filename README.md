@@ -1,12 +1,5 @@
 ---
-
 # 🖼️ OCR FastAPI + Ollama API
-
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
-[![Ollama](https://img.shields.io/badge/Ollama-AI-green?style=for-the-badge)](https://ollama.com/)
-
 ---
 
 > 🚀 An OCR Web API powered by FastAPI and Ollama, supporting image uploads to extract text using AI models like `llama3.2-vision`.
