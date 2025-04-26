@@ -1,0 +1,17 @@
+# .gitattributes
+
+# Force shell script files to use LF
+*.sh text eol=lf
+
+# Force Python files to use LF
+*.py text eol=lf
+
+# Force Dockerfile to use LF
+Dockerfile text eol=lf
+
+# Force YAML files to use LF
+*.yml text eol=lf
+*.yaml text eol=lf
+
+# Force Markdown files to use LF
+*.md text eol=lf
